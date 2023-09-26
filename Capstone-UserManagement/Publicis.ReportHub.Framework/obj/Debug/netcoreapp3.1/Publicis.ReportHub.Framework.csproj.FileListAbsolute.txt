@@ -1,0 +1,72 @@
+C:\Users\ashpuroh1\Desktop\APTestMSPOC\DTCCReportHub\src\Publicis.ReportHub.Framework\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\ashpuroh1\Desktop\APTestMSPOC\DTCCReportHub\src\Publicis.ReportHub.Framework\bin\Debug\netcoreapp3.1\Cosmos.CRTCompat.dll
+C:\Users\ashpuroh1\Desktop\APTestMSPOC\DTCCReportHub\src\Publicis.ReportHub.Framework\bin\Debug\netcoreapp3.1\Publicis.ReportHub.Framework.deps.json
+C:\Users\ashpuroh1\Desktop\APTestMSPOC\DTCCReportHub\src\Publicis.ReportHub.Framework\bin\Debug\netcoreapp3.1\Publicis.ReportHub.Framework.dll
+C:\Users\ashpuroh1\Desktop\APTestMSPOC\DTCCReportHub\src\Publicis.ReportHub.Framework\bin\Debug\netcoreapp3.1\Publicis.ReportHub.Framework.pdb
+C:\Users\ashpuroh1\Desktop\APTestMSPOC\DTCCReportHub\src\Publicis.ReportHub.Framework\obj\Debug\netcoreapp3.1\Publicis.ReportHub.Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashpuroh1\Desktop\APTestMSPOC\DTCCReportHub\src\Publicis.ReportHub.Framework\obj\Debug\netcoreapp3.1\Publicis.ReportHub.Framework.AssemblyInfoInputs.cache
+C:\Users\ashpuroh1\Desktop\APTestMSPOC\DTCCReportHub\src\Publicis.ReportHub.Framework\obj\Debug\netcoreapp3.1\Publicis.ReportHub.Framework.AssemblyInfo.cs
+C:\Users\ashpuroh1\Desktop\APTestMSPOC\DTCCReportHub\src\Publicis.ReportHub.Framework\obj\Debug\netcoreapp3.1\Publicis.ReportHub.Framework.csproj.CoreCompileInputs.cache
+C:\Users\ashpuroh1\Desktop\APTestMSPOC\DTCCReportHub\src\Publicis.ReportHub.Framework\obj\Debug\netcoreapp3.1\Publicis.ReportHub.Framework.dll
+C:\Users\ashpuroh1\Desktop\APTestMSPOC\DTCCReportHub\src\Publicis.ReportHub.Framework\obj\Debug\netcoreapp3.1\Publicis.ReportHub.Framework.pdb
+C:\Users\ashpuroh1\Desktop\APTestMSPOC\DTCCReportHub\src\Publicis.ReportHub.Framework\obj\Debug\netcoreapp3.1\Publicis.ReportHub.Framework.csproj.AssemblyReference.cache
+C:\Users\taransar\Downloads\DTCCReportHub\DTCCReportHub\src\Publicis.ReportHub.Framework\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\taransar\Downloads\DTCCReportHub\DTCCReportHub\src\Publicis.ReportHub.Framework\bin\Debug\netcoreapp3.1\Cosmos.CRTCompat.dll
+C:\Users\taransar\Downloads\DTCCReportHub\DTCCReportHub\src\Publicis.ReportHub.Framework\bin\Debug\netcoreapp3.1\Publicis.ReportHub.Framework.deps.json
+C:\Users\taransar\Downloads\DTCCReportHub\DTCCReportHub\src\Publicis.ReportHub.Framework\bin\Debug\netcoreapp3.1\Publicis.ReportHub.Framework.dll
+C:\Users\taransar\Downloads\DTCCReportHub\DTCCReportHub\src\Publicis.ReportHub.Framework\bin\Debug\netcoreapp3.1\Publicis.ReportHub.Framework.pdb
+C:\Users\taransar\Downloads\DTCCReportHub\DTCCReportHub\src\Publicis.ReportHub.Framework\obj\Debug\netcoreapp3.1\Publicis.ReportHub.Framework.csproj.AssemblyReference.cache
+C:\Users\taransar\Downloads\DTCCReportHub\DTCCReportHub\src\Publicis.ReportHub.Framework\obj\Debug\netcoreapp3.1\Publicis.ReportHub.Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taransar\Downloads\DTCCReportHub\DTCCReportHub\src\Publicis.ReportHub.Framework\obj\Debug\netcoreapp3.1\Publicis.ReportHub.Framework.AssemblyInfoInputs.cache
+C:\Users\taransar\Downloads\DTCCReportHub\DTCCReportHub\src\Publicis.ReportHub.Framework\obj\Debug\netcoreapp3.1\Publicis.ReportHub.Framework.AssemblyInfo.cs
+C:\Users\taransar\Downloads\DTCCReportHub\DTCCReportHub\src\Publicis.ReportHub.Framework\obj\Debug\netcoreapp3.1\Publicis.ReportHub.Framework.csproj.CoreCompileInputs.cache
+C:\Users\taransar\Downloads\DTCCReportHub\DTCCReportHub\src\Publicis.ReportHub.Framework\obj\Debug\netcoreapp3.1\Publicis.ReportHub.Framework.dll
+C:\Users\taransar\Downloads\DTCCReportHub\DTCCReportHub\src\Publicis.ReportHub.Framework\obj\Debug\netcoreapp3.1\Publicis.ReportHub.Framework.pdb
+C:\Users\taransar\Documents\Newfolder\DTCCReportHub\src\Publicis.ReportHub.Framework\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\taransar\Documents\Newfolder\DTCCReportHub\src\Publicis.ReportHub.Framework\bin\Debug\netcoreapp3.1\Cosmos.CRTCompat.dll
+C:\Users\taransar\Documents\Newfolder\DTCCReportHub\src\Publicis.ReportHub.Framework\bin\Debug\netcoreapp3.1\Publicis.ReportHub.Framework.deps.json
+C:\Users\taransar\Documents\Newfolder\DTCCReportHub\src\Publicis.ReportHub.Framework\bin\Debug\netcoreapp3.1\Publicis.ReportHub.Framework.dll
+C:\Users\taransar\Documents\Newfolder\DTCCReportHub\src\Publicis.ReportHub.Framework\bin\Debug\netcoreapp3.1\Publicis.ReportHub.Framework.pdb
+C:\Users\taransar\Documents\Newfolder\DTCCReportHub\src\Publicis.ReportHub.Framework\obj\Debug\netcoreapp3.1\Publicis.ReportHub.Framework.csproj.AssemblyReference.cache
+C:\Users\taransar\Documents\Newfolder\DTCCReportHub\src\Publicis.ReportHub.Framework\obj\Debug\netcoreapp3.1\Publicis.ReportHub.Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taransar\Documents\Newfolder\DTCCReportHub\src\Publicis.ReportHub.Framework\obj\Debug\netcoreapp3.1\Publicis.ReportHub.Framework.AssemblyInfoInputs.cache
+C:\Users\taransar\Documents\Newfolder\DTCCReportHub\src\Publicis.ReportHub.Framework\obj\Debug\netcoreapp3.1\Publicis.ReportHub.Framework.AssemblyInfo.cs
+C:\Users\taransar\Documents\Newfolder\DTCCReportHub\src\Publicis.ReportHub.Framework\obj\Debug\netcoreapp3.1\Publicis.ReportHub.Framework.csproj.CoreCompileInputs.cache
+C:\Users\taransar\Documents\Newfolder\DTCCReportHub\src\Publicis.ReportHub.Framework\obj\Debug\netcoreapp3.1\Publicis.ReportHub.Framework.dll
+C:\Users\taransar\Documents\Newfolder\DTCCReportHub\src\Publicis.ReportHub.Framework\obj\Debug\netcoreapp3.1\Publicis.ReportHub.Framework.pdb
+C:\Users\taransar\source\repos\EventHubPOC\dtcc.reporthub.poc\dtcc.reporthub.pocs\DTCCReportHub\src\Publicis.ReportHub.Framework\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\taransar\source\repos\EventHubPOC\dtcc.reporthub.poc\dtcc.reporthub.pocs\DTCCReportHub\src\Publicis.ReportHub.Framework\bin\Debug\netcoreapp3.1\Cosmos.CRTCompat.dll
+C:\Users\taransar\source\repos\EventHubPOC\dtcc.reporthub.poc\dtcc.reporthub.pocs\DTCCReportHub\src\Publicis.ReportHub.Framework\bin\Debug\netcoreapp3.1\Publicis.ReportHub.Framework.deps.json
+C:\Users\taransar\source\repos\EventHubPOC\dtcc.reporthub.poc\dtcc.reporthub.pocs\DTCCReportHub\src\Publicis.ReportHub.Framework\bin\Debug\netcoreapp3.1\Publicis.ReportHub.Framework.dll
+C:\Users\taransar\source\repos\EventHubPOC\dtcc.reporthub.poc\dtcc.reporthub.pocs\DTCCReportHub\src\Publicis.ReportHub.Framework\bin\Debug\netcoreapp3.1\Publicis.ReportHub.Framework.pdb
+C:\Users\taransar\source\repos\EventHubPOC\dtcc.reporthub.poc\dtcc.reporthub.pocs\DTCCReportHub\src\Publicis.ReportHub.Framework\obj\Debug\netcoreapp3.1\Publicis.ReportHub.Framework.csproj.AssemblyReference.cache
+C:\Users\taransar\source\repos\EventHubPOC\dtcc.reporthub.poc\dtcc.reporthub.pocs\DTCCReportHub\src\Publicis.ReportHub.Framework\obj\Debug\netcoreapp3.1\Publicis.ReportHub.Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taransar\source\repos\EventHubPOC\dtcc.reporthub.poc\dtcc.reporthub.pocs\DTCCReportHub\src\Publicis.ReportHub.Framework\obj\Debug\netcoreapp3.1\Publicis.ReportHub.Framework.AssemblyInfoInputs.cache
+C:\Users\taransar\source\repos\EventHubPOC\dtcc.reporthub.poc\dtcc.reporthub.pocs\DTCCReportHub\src\Publicis.ReportHub.Framework\obj\Debug\netcoreapp3.1\Publicis.ReportHub.Framework.AssemblyInfo.cs
+C:\Users\taransar\source\repos\EventHubPOC\dtcc.reporthub.poc\dtcc.reporthub.pocs\DTCCReportHub\src\Publicis.ReportHub.Framework\obj\Debug\netcoreapp3.1\Publicis.ReportHub.Framework.csproj.CoreCompileInputs.cache
+C:\Users\taransar\source\repos\EventHubPOC\dtcc.reporthub.poc\dtcc.reporthub.pocs\DTCCReportHub\src\Publicis.ReportHub.Framework\obj\Debug\netcoreapp3.1\Publicis.ReportHub.Framework.dll
+C:\Users\taransar\source\repos\EventHubPOC\dtcc.reporthub.poc\dtcc.reporthub.pocs\DTCCReportHub\src\Publicis.ReportHub.Framework\obj\Debug\netcoreapp3.1\Publicis.ReportHub.Framework.pdb
+C:\Users\taransar\source\repos\New folder\Publicis.ReportHub.Framework\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\taransar\source\repos\New folder\Publicis.ReportHub.Framework\bin\Debug\netcoreapp3.1\Cosmos.CRTCompat.dll
+C:\Users\taransar\source\repos\New folder\Publicis.ReportHub.Framework\bin\Debug\netcoreapp3.1\Publicis.ReportHub.Framework.deps.json
+C:\Users\taransar\source\repos\New folder\Publicis.ReportHub.Framework\bin\Debug\netcoreapp3.1\Publicis.ReportHub.Framework.dll
+C:\Users\taransar\source\repos\New folder\Publicis.ReportHub.Framework\bin\Debug\netcoreapp3.1\Publicis.ReportHub.Framework.pdb
+C:\Users\taransar\source\repos\New folder\Publicis.ReportHub.Framework\obj\Debug\netcoreapp3.1\Publicis.ReportHub.Framework.csproj.AssemblyReference.cache
+C:\Users\taransar\source\repos\New folder\Publicis.ReportHub.Framework\obj\Debug\netcoreapp3.1\Publicis.ReportHub.Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taransar\source\repos\New folder\Publicis.ReportHub.Framework\obj\Debug\netcoreapp3.1\Publicis.ReportHub.Framework.AssemblyInfoInputs.cache
+C:\Users\taransar\source\repos\New folder\Publicis.ReportHub.Framework\obj\Debug\netcoreapp3.1\Publicis.ReportHub.Framework.AssemblyInfo.cs
+C:\Users\taransar\source\repos\New folder\Publicis.ReportHub.Framework\obj\Debug\netcoreapp3.1\Publicis.ReportHub.Framework.csproj.CoreCompileInputs.cache
+C:\Users\taransar\source\repos\New folder\Publicis.ReportHub.Framework\obj\Debug\netcoreapp3.1\Publicis.ReportHub.Framework.dll
+C:\Users\taransar\source\repos\New folder\Publicis.ReportHub.Framework\obj\Debug\netcoreapp3.1\Publicis.ReportHub.Framework.pdb
+C:\Users\taransar\source\repos\Capstone-UserManagement\Publicis.ReportHub.Framework\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\taransar\source\repos\Capstone-UserManagement\Publicis.ReportHub.Framework\bin\Debug\netcoreapp3.1\Cosmos.CRTCompat.dll
+C:\Users\taransar\source\repos\Capstone-UserManagement\Publicis.ReportHub.Framework\bin\Debug\netcoreapp3.1\Publicis.ReportHub.Framework.deps.json
+C:\Users\taransar\source\repos\Capstone-UserManagement\Publicis.ReportHub.Framework\bin\Debug\netcoreapp3.1\Publicis.ReportHub.Framework.dll
+C:\Users\taransar\source\repos\Capstone-UserManagement\Publicis.ReportHub.Framework\bin\Debug\netcoreapp3.1\Publicis.ReportHub.Framework.pdb
+C:\Users\taransar\source\repos\Capstone-UserManagement\Publicis.ReportHub.Framework\obj\Debug\netcoreapp3.1\Publicis.ReportHub.Framework.csproj.AssemblyReference.cache
+C:\Users\taransar\source\repos\Capstone-UserManagement\Publicis.ReportHub.Framework\obj\Debug\netcoreapp3.1\Publicis.ReportHub.Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taransar\source\repos\Capstone-UserManagement\Publicis.ReportHub.Framework\obj\Debug\netcoreapp3.1\Publicis.ReportHub.Framework.AssemblyInfoInputs.cache
+C:\Users\taransar\source\repos\Capstone-UserManagement\Publicis.ReportHub.Framework\obj\Debug\netcoreapp3.1\Publicis.ReportHub.Framework.AssemblyInfo.cs
+C:\Users\taransar\source\repos\Capstone-UserManagement\Publicis.ReportHub.Framework\obj\Debug\netcoreapp3.1\Publicis.ReportHub.Framework.csproj.CoreCompileInputs.cache
+C:\Users\taransar\source\repos\Capstone-UserManagement\Publicis.ReportHub.Framework\obj\Debug\netcoreapp3.1\Publicis.ReportHub.Framework.dll
+C:\Users\taransar\source\repos\Capstone-UserManagement\Publicis.ReportHub.Framework\obj\Debug\netcoreapp3.1\Publicis.ReportHub.Framework.pdb

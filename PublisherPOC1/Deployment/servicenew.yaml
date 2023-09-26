@@ -1,0 +1,13 @@
+  apiVersion: v1
+  kind: Service
+  metadata:
+    name: publisherservice
+  spec:
+    type: LoadBalancer 
+    selector:
+      app: publisherdeploy
+    ports:
+      - protocol: TCP
+        name: publisherservice
+        port: 80
+        targetPort: 80

@@ -1,0 +1,54 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: capstonedemo-service
+  namespace: default
+  labels:
+    app: capstonedemo-service
+    
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: capstonedemo-service
+  strategy:
+      rollingUpdate:
+        maxSurge: 2
+        maxUnavailable: 1
+  minReadySeconds: 60
+  template:
+    metadata:
+      labels:
+        app: capstonedemo-service   
+    spec:
+      containers:
+      - name: capstonedemo-service
+        image: capstonedev01.azurecr.io/capstone:v4
+        ports:
+        - containerPort: 80
+        env:
+        - name: EVENTHUB_CONNECTIONSTRING_ENV_NAME
+          value: "Endpoint=sb://capstoneproj-dev.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=h8paAibTNGC2cwHob5dhNlfGYnul0sZeK+AEhP5hAto=;EntityPath=usereh"
+        - name: STORAGE_CONNECTIONSTRING_ENV_NAME
+          value: "DefaultEndpointsProtocol=https;AccountName=capstoneblobstoragedev01;AccountKey=72LIkxNDO9bhYFuy7wFZuQSYHvU2uy4yykHQL/NG9DvzceZkGF2PP87R+CK3q/h+1I+gMDXmAaqe+AStDU4LSA==;EndpointSuffix=core.windows.net"
+        resources:
+          requests:
+            cpu: 500m
+            memory: 500Mi
+          limits:
+            cpu: 500m
+            memory: 500Mi 
+           
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: capstonedemo-service
+  namespace: default
+  labels:
+    app: capstonedemo-service
+spec:
+  ports:
+  - port: 80
+  selector:
+    app: capstonedemo-service

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PublisherPOC1.props" />
+</Project>

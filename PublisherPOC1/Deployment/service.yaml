@@ -1,0 +1,20 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: publisherdeploy
+  namespace: default
+  labels:
+    app: publisherdeploy
+spec:
+  selector:
+    app.kubernetes.io/name: publisherdeploy
+  ports:
+    - protocol: TCP
+      port: 80
+      targetPort: 9376
+  clusterIP: 10.0.171.231
+  type: LoadBalancer
+status:
+  loadBalancer:
+    ingress:
+    - ip: 192.0.2.127

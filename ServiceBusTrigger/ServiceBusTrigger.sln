@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceBusTrigger", "ServiceBusTrigger\ServiceBusTrigger.csproj", "{0AD5B872-1528-4F9B-A76A-F1CBB46A2DAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AD5B872-1528-4F9B-A76A-F1CBB46A2DAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AD5B872-1528-4F9B-A76A-F1CBB46A2DAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AD5B872-1528-4F9B-A76A-F1CBB46A2DAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AD5B872-1528-4F9B-A76A-F1CBB46A2DAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40695558-3585-49F0-BD3F-C7AB8515907D}
+	EndGlobalSection
+EndGlobal

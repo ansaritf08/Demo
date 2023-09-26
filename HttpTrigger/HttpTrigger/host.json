@@ -1,0 +1,13 @@
+{
+  "version": "2.0",
+  "logging": {
+    "applicationInsights": {
+      "samplingSettings": {
+        "isEnabled": true,
+        "excludedTypes": "Request"
+      }
+    }
+  },
+  "ConnectionString": "Endpoint=sb://usermanangement-ser01.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=OACAuCd/llTcMDejxhX+sGHdiIN61SOc4+ASbH0h16g=",
+  "Queue": "user"
+}

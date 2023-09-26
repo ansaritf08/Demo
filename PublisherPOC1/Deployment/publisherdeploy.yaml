@@ -1,0 +1,55 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: publisherdeploy
+  namespace: default
+  labels:
+    app: publisherdeploy
+    
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: publisherdeploy
+  strategy:
+      rollingUpdate:
+        maxSurge: 2
+        maxUnavailable: 1
+  minReadySeconds: 60
+  template:
+    metadata:
+      labels:
+        app: publisherdeploy   
+    spec:
+      containers:
+      - name: publisherdeploy
+        image: cr1wxpoc.azurecr.io/publisher:v1
+        ports:
+        - containerPort: 80
+        resources:
+          requests:
+            cpu: 500m
+            memory: 500Mi
+          limits:
+            cpu: 500m
+            memory: 500Mi 
+           
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: publisherdeploy
+  namespace: default
+spec:
+  selector:
+    app.kubernetes.io/name: publisherdeploy
+  ports:
+    - protocol: TCP
+      port: 80
+      targetPort: 9376
+  clusterIP: 10.0.151.239
+  type: LoadBalancer
+status:
+  loadBalancer:
+    ingress:
+    - ip: 192.0.2.127

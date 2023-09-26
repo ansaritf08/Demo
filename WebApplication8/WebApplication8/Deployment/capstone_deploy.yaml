@@ -1,0 +1,56 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: capstonedemo-service
+  namespace: default
+  labels:
+    app: capstonedemo-service
+    
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: capstonedemo-service
+  strategy:
+      rollingUpdate:
+        maxSurge: 2
+        maxUnavailable: 1
+  minReadySeconds: 60
+  template:
+    metadata:
+      labels:
+        app: capstonedemo-service   
+    spec:
+      containers:
+      - name: capstonedemo-service
+        image: capstoneprojectregistry.azurecr.io/oauth:v1
+        ports:
+        - containerPort: 80
+        env:
+        - name: EVENTHUB_CONNECTIONSTRING_ENV_NAME
+          value: "Endpoint=sb://poconevent.servicebus.windows.net/;SharedAccessKeyName=testscaling;SharedAccessKey=jRHuRc/bKpQUXZLcL9ePwqZjzYiGJemX4CJLPnK+Esc=;EntityPath=kedascalibility"
+        - name: STORAGE_CONNECTIONSTRING_ENV_NAME
+          value: "DefaultEndpointsProtocol=https;AccountName=apmstestapppoc;AccountKey=+A5EH8OUHkRY5aWrXagw1Y3sLQd/+BlhrxThiGVbKyHcXoEhK0jDzG6z1XIz/QbcJD0KvDZEgRPu/w20MS/uVg==;EndpointSuffix=core.windows.net"
+        resources:
+          requests:
+            cpu: 500m
+            memory: 500Mi
+          limits:
+            cpu: 500m
+            memory: 500Mi 
+      imagePullSecrets:
+        - name: regcred
+           
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: capstonedemo-service
+  #namespace: default
+  labels:
+    app: capstonedemo-service
+spec:
+  ports:
+  - port: 80
+  selector:
+    app: capstonedemo-service

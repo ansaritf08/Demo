@@ -1,0 +1,125 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\taransar\\source\\repos\\Capstone-UserManagement\\Publicis.ReportHub.Framework\\Publicis.ReportHub.Framework.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\taransar\\source\\repos\\Capstone-UserManagement\\Publicis.ReportHub.Framework\\Publicis.ReportHub.Framework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\taransar\\source\\repos\\Capstone-UserManagement\\Publicis.ReportHub.Framework\\Publicis.ReportHub.Framework.csproj",
+        "projectName": "Publicis.ReportHub.Framework",
+        "projectPath": "C:\\Users\\taransar\\source\\repos\\Capstone-UserManagement\\Publicis.ReportHub.Framework\\Publicis.ReportHub.Framework.csproj",
+        "packagesPath": "C:\\Users\\taransar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\taransar\\source\\repos\\Capstone-UserManagement\\Publicis.ReportHub.Framework\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\taransar\\source\\repos\\Capstone-UserManagement\\NuGet.Config",
+          "C:\\Users\\taransar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Azure.Messaging.EventHubs": {
+              "target": "Package",
+              "version": "[5.6.2, )"
+            },
+            "Azure.Messaging.EventHubs.Processor": {
+              "target": "Package",
+              "version": "[5.6.2, )"
+            },
+            "Azure.Messaging.ServiceBus": {
+              "target": "Package",
+              "version": "[7.5.1, )"
+            },
+            "Dapr.Client": {
+              "target": "Package",
+              "version": "[1.5.0, )"
+            },
+            "Microsoft.ApplicationInsights.WorkerService": {
+              "target": "Package",
+              "version": "[2.19.0, )"
+            },
+            "Microsoft.Azure.Cosmos": {
+              "target": "Package",
+              "version": "[3.23.0, )"
+            },
+            "Microsoft.Azure.EventHubs.Processor": {
+              "target": "Package",
+              "version": "[4.3.2, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Polly": {
+              "target": "Package",
+              "version": "[7.2.2, )"
+            },
+            "WindowsAzure.Storage": {
+              "target": "Package",
+              "version": "[9.3.3, )"
+            },
+            "ZipHelperLib": {
+              "target": "Package",
+              "version": "[1.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

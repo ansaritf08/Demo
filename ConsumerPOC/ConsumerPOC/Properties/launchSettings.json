@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ConsumerPOC": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

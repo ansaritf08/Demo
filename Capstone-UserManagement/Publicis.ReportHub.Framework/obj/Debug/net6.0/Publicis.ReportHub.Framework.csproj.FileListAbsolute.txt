@@ -1,0 +1,14 @@
+C:\Users\taransar\Downloads\DTCCReportHub\DTCCReportHub\src\Publicis.ReportHub.Framework\obj\Debug\net6.0\Publicis.ReportHub.Framework.csproj.AssemblyReference.cache
+C:\Users\taransar\Downloads\DTCCReportHub\DTCCReportHub\src\Publicis.ReportHub.Framework\obj\Debug\net6.0\Publicis.ReportHub.Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taransar\Downloads\DTCCReportHub\DTCCReportHub\src\Publicis.ReportHub.Framework\obj\Debug\net6.0\Publicis.ReportHub.Framework.AssemblyInfoInputs.cache
+C:\Users\taransar\Downloads\DTCCReportHub\DTCCReportHub\src\Publicis.ReportHub.Framework\obj\Debug\net6.0\Publicis.ReportHub.Framework.AssemblyInfo.cs
+C:\Users\taransar\Downloads\DTCCReportHub\DTCCReportHub\src\Publicis.ReportHub.Framework\obj\Debug\net6.0\Publicis.ReportHub.Framework.csproj.CoreCompileInputs.cache
+C:\Users\taransar\Downloads\DTCCReportHub\DTCCReportHub\src\Publicis.ReportHub.Framework\bin\Debug\net6.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\taransar\Downloads\DTCCReportHub\DTCCReportHub\src\Publicis.ReportHub.Framework\bin\Debug\net6.0\Cosmos.CRTCompat.dll
+C:\Users\taransar\Downloads\DTCCReportHub\DTCCReportHub\src\Publicis.ReportHub.Framework\bin\Debug\net6.0\Publicis.ReportHub.Framework.deps.json
+C:\Users\taransar\Downloads\DTCCReportHub\DTCCReportHub\src\Publicis.ReportHub.Framework\bin\Debug\net6.0\Publicis.ReportHub.Framework.dll
+C:\Users\taransar\Downloads\DTCCReportHub\DTCCReportHub\src\Publicis.ReportHub.Framework\bin\Debug\net6.0\ref\Publicis.ReportHub.Framework.dll
+C:\Users\taransar\Downloads\DTCCReportHub\DTCCReportHub\src\Publicis.ReportHub.Framework\bin\Debug\net6.0\Publicis.ReportHub.Framework.pdb
+C:\Users\taransar\Downloads\DTCCReportHub\DTCCReportHub\src\Publicis.ReportHub.Framework\obj\Debug\net6.0\Publicis.ReportHub.Framework.dll
+C:\Users\taransar\Downloads\DTCCReportHub\DTCCReportHub\src\Publicis.ReportHub.Framework\obj\Debug\net6.0\ref\Publicis.ReportHub.Framework.dll
+C:\Users\taransar\Downloads\DTCCReportHub\DTCCReportHub\src\Publicis.ReportHub.Framework\obj\Debug\net6.0\Publicis.ReportHub.Framework.pdb

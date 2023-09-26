@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Capstone-UserManagement": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
